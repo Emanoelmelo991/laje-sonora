@@ -71,7 +71,7 @@ h1, h2, h3 {
 }
 
 .menu a.atual {
-    border-bottom-color: var(--fita);
+     border-bottom-color: var(--fita);
 }
 
 .cartazes {
